@@ -1,6 +1,7 @@
 # zappy
 Zappy C++/C/Python
 
+Goal: Create a game with player, each player is a bot, bot need to eat and take resources for pass level.
 
 make re
 
